@@ -1,0 +1,2 @@
+api.openweathermap.org/data/2.5/weather?lat=35&lon=139&appid=48d844a5d302d9d5108e5f7c0310f082
+
